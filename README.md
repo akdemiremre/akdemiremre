@@ -1,4 +1,4 @@
-[![MasterHead](https://dotnet.microsoft.com/static/images/illustrations/swimlane-blazor-ui-build.svg?v=2_6GDQc4LI7_aGT3Y17cmM90BeCmC2uMo9wiJU3Biiw)
+![MasterHead](https://dotnet.microsoft.com/static/images/illustrations/swimlane-blazor-ui-build.svg?v=2_6GDQc4LI7_aGT3Y17cmM90BeCmC2uMo9wiJU3Biiw)
 <h1 align="center">Hi 👋, I'm Emre Akdemir</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
